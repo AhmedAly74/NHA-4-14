@@ -37,11 +37,11 @@
         "print(\"Paths Ready ✅\")"
       ],
       "metadata": {
-        "id": "VqnkRo9w6e0b",
-        "outputId": "7badd6dd-e0d4-4a0b-c60d-56d5f9ccf9fc",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "VqnkRo9w6e0b",
+        "outputId": "7badd6dd-e0d4-4a0b-c60d-56d5f9ccf9fc"
       },
       "execution_count": 9,
       "outputs": [
@@ -64,11 +64,11 @@
         "print(\"Labels:\", len(list(Path(TRAIN_LABELS).glob(\"*.txt\"))))"
       ],
       "metadata": {
-        "id": "DrsizaV_6slA",
-        "outputId": "870212c3-b660-49cf-8dfa-a450fc0057d8",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "DrsizaV_6slA",
+        "outputId": "870212c3-b660-49cf-8dfa-a450fc0057d8"
       },
       "execution_count": 10,
       "outputs": [
